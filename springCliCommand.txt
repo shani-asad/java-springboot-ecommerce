@@ -1,0 +1,4 @@
+spring init \
+> -d web,mybatis,postgresql,security \
+> -j 1.21 \
+> -n projekt-ikomers
